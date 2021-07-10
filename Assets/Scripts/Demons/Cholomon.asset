@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 88fe7121c107caf43a97d2eded0d3080, type: 3}
+  m_Name: Cholomon
+  m_EditorClassIdentifier: 
+  Name: Cholomon
+  Art: {fileID: 0}
+  Sp: 10
+  atk: 1
+  health: 10
+  maxSp: 10
+  maxHelth: 10
+  element: Earth
+  powers:
+  - name: filero
+    type: dmg
+    cost: 0
+    potency: 1
+  - name: ElBarrio
+    type: dmg
+    cost: 1
+    potency: 2
+  - name: QueHoraes?
+    type: dmg
+    cost: 5
+    potency: 10
+  - name: Yatelasabes
+    type: dmg
+    cost: 10
+    potency: 3

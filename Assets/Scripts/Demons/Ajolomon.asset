@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 88fe7121c107caf43a97d2eded0d3080, type: 3}
+  m_Name: Ajolomon
+  m_EditorClassIdentifier: 
+  Name: Ajolomon
+  Art: {fileID: 0}
+  Sp: 15
+  atk: 2
+  health: 30
+  maxSp: 15
+  maxHelth: 30
+  element: water
+  powers:
+  - name: Buble
+    type: dmg
+    cost: 1
+    potency: 2
+  - name: Hug
+    type: dmg
+    cost: 0
+    potency: 1
+  - name: Tail
+    type: dmg
+    cost: 5
+    potency: 10
+  - name: Heal
+    type: heal
+    cost: 10
+    potency: 30

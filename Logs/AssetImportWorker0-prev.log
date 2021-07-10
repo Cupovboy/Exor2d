@@ -1,0 +1,325 @@
+Using pre-set license
+Built from '2020.3/staging' branch; Version is '2020.3.4f1 (0abb6314276a) revision 703331'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Home; OS build 19042.1083; Version 2009; 64bit' Language: 'es' Physical Memory: 16304 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.3.4f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+D:/GitRepos/Exorcismon2d
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+63784
+Successfully changed project path to: D:/GitRepos/Exorcismon2d
+D:/GitRepos/Exorcismon2d
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 46.16 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.4f1 (0abb6314276a)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.4f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path D:/GitRepos/Exorcismon2d/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1060 3GB (ID=0x1c02)
+    Vendor:   
+    VRAM:     2988 MB
+    Driver:   27.21.14.6172
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.4f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.4f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56688
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.4f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.003049 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 64.71 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.683 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.001066 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 62.75 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.607 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.10 seconds
+Refreshing native plugins compatible for Editor in 0.33 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1810 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 85.0 MB.
+System memory in use after: 85.0 MB.
+
+Unloading 24 unused Assets to reduce memory usage. Loaded Objects now: 2253.
+Total: 3.819600 ms (FindLiveObjects: 0.362900 ms CreateObjectMapping: 0.227900 ms MarkObjects: 3.083400 ms  DeleteObjects: 0.143700 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/GothicVania Church/Environment/column.png
+  artifactKey: Guid(41d8855c301eb4f37bddd0d3dfac611b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GothicVania Church/Environment/column.png using Guid(41d8855c301eb4f37bddd0d3dfac611b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c43eb10aafbb2df35efdd8829398de17') in 0.222089 seconds
+  Import took 0.327879 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000521 seconds.
+  path: Assets/GothicVania Church/Environment
+  artifactKey: Guid(bf678482ad0bb4e2d9fc66d3ba3b925d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GothicVania Church/Environment using Guid(bf678482ad0bb4e2d9fc66d3ba3b925d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '310271425ba0d8c9a27349f04f801632') in 0.008752 seconds
+  Import took 0.020488 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000363 seconds.
+  path: Assets/GothicVania Church/Environment/tileset.png
+  artifactKey: Guid(aaa6ed922388941e8a1e8c9a7cb2a712) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GothicVania Church/Environment/tileset.png using Guid(aaa6ed922388941e8a1e8c9a7cb2a712) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '750e35a0f7fe9dd2dbb0a85dfb3eddcd') in 0.024918 seconds
+  Import took 0.048903 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000326 seconds.
+  path: Assets/GothicVania Church/Environment/bg-2.png
+  artifactKey: Guid(4d106ce971166481faa32de0ba5145c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GothicVania Church/Environment/bg-2.png using Guid(4d106ce971166481faa32de0ba5145c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '920b6af710e6f54834d14f31a4f0788c') in 0.024956 seconds
+  Import took 0.058663 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000269 seconds.
+  path: Assets/GothicVania Church/Environment/bg-3.png
+  artifactKey: Guid(167f44201ce9c4632b387d0a0822f7f5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GothicVania Church/Environment/bg-3.png using Guid(167f44201ce9c4632b387d0a0822f7f5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5804a86523aa842416ddda6671819f8b') in 0.020250 seconds
+  Import took 0.025062 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000302 seconds.
+  path: Assets/GothicVania Church/Environment/bg-1.png
+  artifactKey: Guid(4088e222fbea240ceb318507c580aa2e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GothicVania Church/Environment/bg-1.png using Guid(4088e222fbea240ceb318507c580aa2e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '77c32c18e97fc32bb58de3c1522d7054') in 0.024283 seconds
+  Import took 0.028751 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000257 seconds.
+  path: Assets/GothicVania Church/Environment/bg-5.png
+  artifactKey: Guid(f8298875ddc0d4fa4bb8d9a60b80fa3b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GothicVania Church/Environment/bg-5.png using Guid(f8298875ddc0d4fa4bb8d9a60b80fa3b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4cc4f1c3b85d0a4f13063099e74b813f') in 0.025309 seconds
+  Import took 0.033215 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000224 seconds.
+  path: Assets/GothicVania Church/Environment/bg-4.png
+  artifactKey: Guid(d8254b0cb964744a0a12cf381c9356e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GothicVania Church/Environment/bg-4.png using Guid(d8254b0cb964744a0a12cf381c9356e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1f5540221ce7a5429998e61abda76786') in 0.028520 seconds
+  Import took 0.032841 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 60.039254 seconds.
+  path: Assets/GothicVania Church
+  artifactKey: Guid(3ecc0e5f431b9674880f7b60ffeb17b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GothicVania Church using Guid(3ecc0e5f431b9674880f7b60ffeb17b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a12cb6dee9ea640c27fbc4b91c361010') in 0.014429 seconds
+  Import took 0.043532 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.649742 seconds.
+  path: Assets/GothicVania Church/Scenes
+  artifactKey: Guid(c471a090adba445bbab4912744c42f24) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GothicVania Church/Scenes using Guid(c471a090adba445bbab4912744c42f24) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '39a3c0d8527be94309e72729c0de8c4b') in 0.007897 seconds
+  Import took 0.012100 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.753727 seconds.
+  path: Assets/GothicVania Church/Sprites
+  artifactKey: Guid(da08416cc812547178a26bc586017b5b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GothicVania Church/Sprites using Guid(da08416cc812547178a26bc586017b5b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bc772fca9e4d0a81d86ac675780d09e4') in 0.008075 seconds
+  Import took 0.028466 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.666810 seconds.
+  path: Assets/GothicVania Church/Sprites/Enemies
+  artifactKey: Guid(629803cf4b66b42d3bcf3b8f930613de) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GothicVania Church/Sprites/Enemies using Guid(629803cf4b66b42d3bcf3b8f930613de) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd8d64e21305a537f5216ed89cc7ed60c') in 0.009635 seconds
+  Import took 0.013692 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.879705 seconds.
+  path: Assets/GothicVania Church/Sprites/Enemies/Angel-Attack
+  artifactKey: Guid(e232efc1f74314517b71f383bbe01497) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GothicVania Church/Sprites/Enemies/Angel-Attack using Guid(e232efc1f74314517b71f383bbe01497) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd4f81b34f27b4784ead98a9b41fe86f5') in 0.009529 seconds
+  Import took 0.019319 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.265208 seconds.
+  path: Assets/GothicVania Church/Sprites/Enemies/Angel-Attack/angel-attack-1.png
+  artifactKey: Guid(ab8c6ad7260aa4988b3a67bd49e66038) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GothicVania Church/Sprites/Enemies/Angel-Attack/angel-attack-1.png using Guid(ab8c6ad7260aa4988b3a67bd49e66038) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b959043f78b06685664e6e273f61bab9') in 0.030789 seconds
+  Import took 0.036228 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000339 seconds.
+  path: Assets/GothicVania Church/Sprites/Enemies/Angel-Attack/angel-attack-2.png
+  artifactKey: Guid(4694483d57006449b83361c219c4f27a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GothicVania Church/Sprites/Enemies/Angel-Attack/angel-attack-2.png using Guid(4694483d57006449b83361c219c4f27a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd8039156fc1c2e58c2ce849f849b2892') in 0.020253 seconds
+  Import took 0.026650 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000338 seconds.
+  path: Assets/GothicVania Church/Sprites/Enemies/Angel-Attack/angel-attack-3.png
+  artifactKey: Guid(cf4d6ac7b070d484fa7b90c92bbcba93) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GothicVania Church/Sprites/Enemies/Angel-Attack/angel-attack-3.png using Guid(cf4d6ac7b070d484fa7b90c92bbcba93) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b688c311597d8e67e483417976856d21') in 0.034766 seconds
+  Import took 0.039630 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 25.369469 seconds.
+  path: Assets/GothicVania Church/Sprites/Player
+  artifactKey: Guid(5ea45a4fb406943cb9d94e5dd3a3a496) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GothicVania Church/Sprites/Player using Guid(5ea45a4fb406943cb9d94e5dd3a3a496) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '90a271667640a87f0cb8163fafba90b5') in 0.008223 seconds
+  Import took 0.036783 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.314359 seconds.
+  path: Assets/GothicVania Church/Sprites/Misc
+  artifactKey: Guid(af1f99b5cc528444486ad4738658d79d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GothicVania Church/Sprites/Misc using Guid(af1f99b5cc528444486ad4738658d79d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0482599900597082861df177145c1461') in 0.011167 seconds
+  Import took 0.015229 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.137395 seconds.
+  path: Assets/GothicVania Church/Sprites/Misc/Enemy-Death
+  artifactKey: Guid(a96c9dd2329cb438d9393051256ff85e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GothicVania Church/Sprites/Misc/Enemy-Death using Guid(a96c9dd2329cb438d9393051256ff85e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2d64ba982cdbfee3d99670dda2301105') in 0.009904 seconds
+  Import took 0.018551 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.655649 seconds.
+  path: Assets/GothicVania Church/Sprites/Misc/Enemy-Death/Enemy-Death-1.png
+  artifactKey: Guid(f81c1c89a83ed49ba9dc43e5434a3531) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GothicVania Church/Sprites/Misc/Enemy-Death/Enemy-Death-1.png using Guid(f81c1c89a83ed49ba9dc43e5434a3531) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9b4e757b0ea4e3c1f6df9f047e84c788') in 0.017060 seconds
+  Import took 0.061186 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000394 seconds.
+  path: Assets/GothicVania Church/Sprites/Misc/Enemy-Death/Enemy-Death-4.png
+  artifactKey: Guid(30e4f85892c46449cbd4ea836c389c9b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GothicVania Church/Sprites/Misc/Enemy-Death/Enemy-Death-4.png using Guid(30e4f85892c46449cbd4ea836c389c9b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aaaa7d61b33f6db893d9cb9277b6002d') in 0.014675 seconds
+  Import took 0.022062 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000312 seconds.
+  path: Assets/GothicVania Church/Sprites/Misc/Enemy-Death/Enemy-Death-6.png
+  artifactKey: Guid(13f4a1907b0bf431797e44979420ba8d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GothicVania Church/Sprites/Misc/Enemy-Death/Enemy-Death-6.png using Guid(13f4a1907b0bf431797e44979420ba8d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '73e96a95d82fcfdb4a8637c053b459df') in 0.020858 seconds
+  Import took 0.034625 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000382 seconds.
+  path: Assets/GothicVania Church/Sprites/Misc/Enemy-Death/Enemy-Death-5.png
+  artifactKey: Guid(57845e207a697433b92e3aba240a4b2a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GothicVania Church/Sprites/Misc/Enemy-Death/Enemy-Death-5.png using Guid(57845e207a697433b92e3aba240a4b2a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7eac1a02b95b9f8df99c32a87dc49736') in 0.019980 seconds
+  Import took 0.024634 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000363 seconds.
+  path: Assets/GothicVania Church/Sprites/Misc/Enemy-Death/Enemy-Death-3.png
+  artifactKey: Guid(2bcb30bfe42a24c16b493bfee67b8ef8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GothicVania Church/Sprites/Misc/Enemy-Death/Enemy-Death-3.png using Guid(2bcb30bfe42a24c16b493bfee67b8ef8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1965fd0e90b39f10aef8bcbafb350332') in 0.020169 seconds
+  Import took 0.039753 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000238 seconds.
+  path: Assets/GothicVania Church/Sprites/Misc/Enemy-Death/Enemy-Death-2.png
+  artifactKey: Guid(05693a8fd758747cab019551188b0447) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GothicVania Church/Sprites/Misc/Enemy-Death/Enemy-Death-2.png using Guid(05693a8fd758747cab019551188b0447) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0b7aa380ce48dfc92a3d13e83e2617a1') in 0.020820 seconds
+  Import took 0.025007 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000321 seconds.
+  path: Assets/GothicVania Church/Sprites/Misc/Enemy-Death/Enemy-Death-7.png
+  artifactKey: Guid(e4dfb8af17a354fd4a5278f311c19e03) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GothicVania Church/Sprites/Misc/Enemy-Death/Enemy-Death-7.png using Guid(e4dfb8af17a354fd4a5278f311c19e03) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'de9f9706b5ba3cf71997d07cbd95282b') in 0.018956 seconds
+  Import took 0.023215 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 602.506256 seconds.
+  path: Assets/Sprites/Battle Backgrounds.png
+  artifactKey: Guid(3b9bcd376550cb548b401e238498ac0c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Battle Backgrounds.png using Guid(3b9bcd376550cb548b401e238498ac0c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '22265616c05b81e12d31c8c1b5fedcd6') in 0.030662 seconds
+  Import took 0.041614 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000468 seconds.
+  path: Assets/Sprites/hud-box.png
+  artifactKey: Guid(af475b30a748fec4386f48b1eadc186b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/hud-box.png using Guid(af475b30a748fec4386f48b1eadc186b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1b16e7202d6844b65105d3cfb51bfbd5') in 0.018663 seconds
+  Import took 0.024554 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000299 seconds.
+  path: Assets/Sprites/dialog-plain.png
+  artifactKey: Guid(51d7b409fa1ba62489d2655d52f3b105) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/dialog-plain.png using Guid(51d7b409fa1ba62489d2655d52f3b105) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c251d1c41cbee9a78017ea808fdd4efe') in 0.016051 seconds
+  Import took 0.019815 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 9.691748 seconds.
+  path: Assets/Sprites/Battle Backgrounds.png
+  artifactKey: Guid(3b9bcd376550cb548b401e238498ac0c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Battle Backgrounds.png using Guid(3b9bcd376550cb548b401e238498ac0c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a4ffd1512b56e9e6167aedebc3e6dd5a') in 0.018273 seconds
+  Import took 0.047624 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 125.708307 seconds.
+  path: Assets/Sprites/Battle Backgrounds.png
+  artifactKey: Guid(3b9bcd376550cb548b401e238498ac0c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Battle Backgrounds.png using Guid(3b9bcd376550cb548b401e238498ac0c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'faf1f96a551b0cb54bdf3cfb84053d8f') in 0.017841 seconds
+  Import took 0.031445 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 46.041558 seconds.
+  path: Assets/Sprites/Battle Backgrounds.png
+  artifactKey: Guid(3b9bcd376550cb548b401e238498ac0c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Battle Backgrounds.png using Guid(3b9bcd376550cb548b401e238498ac0c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bce41c343b036f86397b5dc383c09f24') in 0.051629 seconds
+  Import took 0.055978 seconds .
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
